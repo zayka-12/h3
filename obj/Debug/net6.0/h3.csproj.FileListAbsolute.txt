@@ -1,0 +1,15 @@
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\h3.csproj.AssemblyReference.cache
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\h3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\h3.AssemblyInfoInputs.cache
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\h3.AssemblyInfo.cs
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\h3.csproj.CoreCompileInputs.cache
+D:\Зоя\Desktop\GIT\h3\bin\Debug\net6.0\h3.exe
+D:\Зоя\Desktop\GIT\h3\bin\Debug\net6.0\h3.deps.json
+D:\Зоя\Desktop\GIT\h3\bin\Debug\net6.0\h3.runtimeconfig.json
+D:\Зоя\Desktop\GIT\h3\bin\Debug\net6.0\h3.dll
+D:\Зоя\Desktop\GIT\h3\bin\Debug\net6.0\h3.pdb
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\h3.dll
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\refint\h3.dll
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\h3.pdb
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\h3.genruntimeconfig.cache
+D:\Зоя\Desktop\GIT\h3\obj\Debug\net6.0\ref\h3.dll
